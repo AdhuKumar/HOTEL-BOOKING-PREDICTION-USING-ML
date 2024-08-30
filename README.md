@@ -19,4 +19,5 @@ The goal is to predict whether a hotel booking will be canceled or not based on 
 7.	Hyperparameter Tuning: Fine-tune your model by optimizing hyperparameters through techniques like Grid Search or Random Search.
 
 8.	Predictions: Once you have a well-performing model, you can use it to make predictions on new data.
-![image](https://github.com/AdhuKumar/HOTEL-BOOKING-PREDICTION-USING-ML/assets/112812597/10fc3373-9892-4053-810f-94b0466bfbba)
+
+
